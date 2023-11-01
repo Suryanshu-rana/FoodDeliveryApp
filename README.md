@@ -4,6 +4,13 @@ Welcome to the Food Delivery Android App! This modern, feature-rich Android appl
 
 # Project ScreenShots
 
+<img src= "https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/2aefb219-307d-4280-b6d8-b5718a6d1ce8" height=350dp widht=200dp>
+<img src= "https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/b09c0cc9-018c-484d-a936-746c810e3dc1" height=350dp widht=200dp>
+<img src= "https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/04d849f7-3cde-46d5-ba81-c1b970560d93" height=350dp widht=200dp>
+<img src= "https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/22a60425-f6cd-4b38-9414-b411aee2c93f" height=350dp widht=200dp>
+<video width="350" height="200" controls>
+  <source src="https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/3fa88044-2473-47f9-9c86-e38d7a9ca319" type="video/mp4">
+</video>
 ## Features
 
 Our E-Commerce Android App offers a wide range of features to provide a seamless shopping experience:
@@ -86,6 +93,11 @@ Contributions from the open-source community are welcome! Please follow the guid
 ## License
 
 This E-Commerce Android App is released under the Bramha's License.
+
+Uploading screen-20231024-204531_kExCpVkx.mp4…
+
+
+
 
 ## Contact
 
