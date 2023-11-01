@@ -96,7 +96,7 @@ Contributions from the open-source community are welcome! Please follow the guid
 
 This E-Commerce Android App is released under the Bramha's License.
 
-Uploading screen-20231024-204531_kExCpVkx.mp4…
+
 
 
 
