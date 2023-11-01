@@ -11,6 +11,8 @@ Welcome to the Food Delivery Android App! This modern, feature-rich Android appl
 <video width="350" height="200" controls>
   <source src="https://github.com/Suryanshu-rana/FoodDeliveryApp/assets/61387349/3fa88044-2473-47f9-9c86-e38d7a9ca319" type="video/mp4">
 </video>
+
+
 ## Features
 
 Our E-Commerce Android App offers a wide range of features to provide a seamless shopping experience:
