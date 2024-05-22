@@ -72,7 +72,7 @@ Before you begin, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Suryanshu-rana/Project_Infinite_Psukonomi.git
+   git clone https://github.com/Suryanshu-rana/FoodDeliveryApp.git
 
 2. **Build and run the app on your device or emulator.**
 
